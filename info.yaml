@@ -1,8 +1,8 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     446357790417263617       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "A Single AND Gate"      # Project title
-  author:       "Dan Fiumara"      # Your name
+  author:       "Nathaniel Soto"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "A single AND gate"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
